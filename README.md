@@ -1,4 +1,4 @@
-# [开阳] | Python 传道者
+# 开阳 | Python 传道者
 
 > 北漂 15 年，前字节系资深程序员。  
 > 见过大厂的速度、机会、竞争与复杂之后，我选择回到技术最本真的价值：传播、陪伴、成就。
@@ -118,7 +118,7 @@ Python 学习高频问题、常见误区与面试题整理。
 
 ## Contact
 
-- Email: [568809936@qq.com]
+- Email: 568809936@qq.com
 - WeChat / Public Account: [你的微信 / 公众号]
 - Location: Beijing,Chengdu, China
 
